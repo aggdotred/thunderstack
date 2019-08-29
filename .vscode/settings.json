@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "/Users/adam/.local/share/virtualenvs/thunderstack-7N5aMTxi/bin/python",
+  "python.formatting.provider": "black"
+}
